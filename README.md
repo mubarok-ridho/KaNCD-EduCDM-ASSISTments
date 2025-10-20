@@ -21,7 +21,6 @@ This notebook provides a full pipeline—from data preprocessing to model traini
 
 ## 🧠 Dataset
 The **ASSISTments 2009–2010** dataset is a widely used benchmark in educational data mining and cognitive diagnosis research.  
-> [ASSISTments 2009-2010](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data)
 
 ---
 
