@@ -1,7 +1,7 @@
 # KaNCD: Kolmogorov–Arnold Neural Cognitive Diagnosis Model
 
 This notebook demonstrates an implementation of **KaNCD (Kolmogorov–Arnold Neural Cognitive Diagnosis Model)** using the public **ASSISTments 2009–2010** dataset  
-(https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data).
+> [ASSISTments 2009-2010](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data)
 
 KaNCD belongs to the family of **Cognitive Diagnosis Models (CDM)**, which aim to estimate students’ latent knowledge states across multiple skills based on their question–response interactions.
 
