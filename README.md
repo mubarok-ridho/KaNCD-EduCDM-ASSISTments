@@ -50,7 +50,8 @@ Ensure all required dependencies (e.g., `educdm`) are properly installed before 
   Compute AUC, ACC, and POMDP reward metrics.  
 - **Visualization**  
   Display results and cross-fold performance metrics.
-
+- **POMDP**
+  Using trained model in POMDP
 ---
 
 © 2025 Ridho — Example implementation for research and experimentation purposes.
